@@ -1,16 +1,26 @@
-# anime_verse
+# Anime Verse
 
-A new Flutter project.
+**Nama:** Kevin Swandana  
+**NIM:** 231401136  
 
-## Getting Started
+## Deskripsi Aplikasi
+Anime Verse adalah aplikasi mobile berbasis **Flutter** yang menyediakan informasi seputar anime, seperti daftar anime, detail anime, dan fitur autentikasi pengguna menggunakan **Firebase Authentication** serta penyimpanan data dengan **Cloud Firestore**.  
+Aplikasi ini dirancang dengan antarmuka sederhana dan responsif untuk memberikan pengalaman pengguna yang nyaman.
 
-This project is a starting point for a Flutter application.
+## Teknologi yang Digunakan
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Core
+- Go Router
 
-A few resources to get you started if this is your first Flutter project:
+## Tujuan Pengembangan
+Aplikasi ini dibuat sebagai bagian dari tugas pengembangan aplikasi mobile untuk menerapkan konsep:
+- Integrasi Flutter dengan Firebase
+- Autentikasi pengguna
+- Pengelolaan dan penyimpanan data berbasis cloud
+- Build aplikasi Android dalam mode release
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dokumentasi Tambahan
+Untuk informasi lebih lanjut mengenai Flutter, silakan kunjungi:
+- [Flutter Documentation](https://docs.flutter.dev/)
