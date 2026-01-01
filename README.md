@@ -7,6 +7,8 @@
 Anime Verse adalah aplikasi mobile berbasis **Flutter** yang menyediakan informasi seputar anime, seperti daftar anime, detail anime, dan fitur autentikasi pengguna menggunakan **Firebase Authentication** serta penyimpanan data dengan **Cloud Firestore**.  
 Aplikasi ini dirancang dengan antarmuka sederhana dan responsif untuk memberikan pengalaman pengguna yang nyaman.
 
+## PRIVIEW APLIKASI (assets/home.jpeg)
+
 ## Teknologi yang Digunakan
 - Flutter
 - Firebase Authentication
